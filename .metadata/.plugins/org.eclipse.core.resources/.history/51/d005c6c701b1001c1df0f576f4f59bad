@@ -1,0 +1,33 @@
+/*
+ ============================================================================
+ Name        : Clase1Verdadera.c
+ Author      : santiago
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+*/
+
+#include <stdio.h>
+#include <stdlib.h>
+
+
+
+int main(void)
+{
+
+	setbuf(stdout,NULL);
+
+	float a;
+	float b;
+	int resultado;
+
+	a = 3.14;
+	b = 5.5;
+	resultado = a < b;
+
+	printf("resultado de a menor que b es: %d"-, resultado);
+
+	return EXIT_SUCCESS;
+}
+

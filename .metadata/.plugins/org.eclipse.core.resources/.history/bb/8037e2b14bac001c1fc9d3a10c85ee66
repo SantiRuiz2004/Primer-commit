@@ -1,0 +1,36 @@
+/*
+ ============================================================================
+ Name        : Clase1Verdadera.c
+ Author      : santiago
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+
+
+int main(void)
+{
+
+	int numeroUno, numeroDos;
+	int resultado;
+
+	printf("Ingrese un numero: ");
+
+	scanf("%d" , &numeroUno);
+
+	printf("Ingrese otro numero: ");
+
+	scanf("%d" , &numeroDos);
+
+	resultado = numeroUno + numeroDos;
+
+	printf("El resultado de la suma es: %d", resultado );
+
+
+	return EXIT_SUCCESS;
+}

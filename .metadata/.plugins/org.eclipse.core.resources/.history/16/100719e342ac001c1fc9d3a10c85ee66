@@ -1,0 +1,26 @@
+/*
+ ============================================================================
+ Name        : Clase1Verdadera.c
+ Author      : santiago
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+#define SALUDO "Hola mundo Eclipse!!"
+
+int main(void)
+{
+	printf(SALUDO); /* prints !!!Hello World!!! */
+	float pi = 3.14;
+	char c = 'a';
+
+
+	printf("\n El numero pi es: %f y el char es: %c", pi,c);
+
+	return EXIT_SUCCESS;
+}

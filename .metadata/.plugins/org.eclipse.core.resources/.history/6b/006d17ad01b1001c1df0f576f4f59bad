@@ -1,0 +1,31 @@
+/*
+ ============================================================================
+ Name        : Clase1Verdadera.c
+ Author      : santiago
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+*/
+
+#include <stdio.h>
+#include <stdlib.h>
+
+
+
+int main(void)
+{
+
+	setbuf(stdout,NULL);
+
+	int edad;
+
+	printf("Ingrese su edad: ");
+	scanf("%d", &edad);
+
+	printf("su edad es: %d", edad);
+
+
+	return EXIT_SUCCESS;
+}
+

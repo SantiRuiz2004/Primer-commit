@@ -1,0 +1,316 @@
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+10:44:15 **** Incremental Build of configuration Debug for project Clase1Verdadera ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1Verdadera.o" "..\\src\\Clase1Verdadera.c" 
+..\src\Clase1Verdadera.c: In function 'main':
+..\src\Clase1Verdadera.c:20:11: warning: initialization of 'char' from 'char *' makes integer from pointer without a cast [-Wint-conversion]
+   20 |  char c = "a";
+      |           ^~~
+..\src\Clase1Verdadera.c:22:50: error: expected ')' before 'pi'
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                                                  ^~~
+      |                                                  )
+..\src\Clase1Verdadera.c:22:31: warning: format '%f' expects a matching 'double' argument [-Wformat=]
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                              ~^
+      |                               |
+      |                               double
+..\src\Clase1Verdadera.c:22:48: warning: format '%c' expects a matching 'int' argument [-Wformat=]
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                                               ~^
+      |                                                |
+      |                                                int
+..\src\Clase1Verdadera.c:20:7: warning: unused variable 'c' [-Wunused-variable]
+   20 |  char c = "a";
+      |       ^
+..\src\Clase1Verdadera.c:19:8: warning: unused variable 'pi' [-Wunused-variable]
+   19 |  float pi = 3.14;
+      |        ^~
+10:44:28 **** Incremental Build of configuration Debug for project Clase1Verdadera ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1Verdadera.o" "..\\src\\Clase1Verdadera.c" 
+..\src\Clase1Verdadera.c: In function 'main':
+..\src\Clase1Verdadera.c:20:11: warning: initialization of 'char' from 'char *' makes integer from pointer without a cast [-Wint-conversion]
+   20 |  char c = "a";
+      |           ^~~
+..\src\Clase1Verdadera.c:22:50: error: expected ')' before 'pi'
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                                                  ^~~
+      |                                                  )
+..\src\Clase1Verdadera.c:22:31: warning: format '%f' expects a matching 'double' argument [-Wformat=]
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                              ~^
+      |                               |
+      |                               double
+..\src\Clase1Verdadera.c:22:48: warning: format '%c' expects a matching 'int' argument [-Wformat=]
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                                               ~^
+      |                                                |
+      |                                                int
+..\src\Clase1Verdadera.c:20:7: warning: unused variable 'c' [-Wunused-variable]
+   20 |  char c = "a";
+      |       ^
+..\src\Clase1Verdadera.c:19:8: warning: unused variable 'pi' [-Wunused-variable]
+   19 |  float pi = 3.14;
+      |        ^~
+10:44:29 **** Incremental Build of configuration Debug for project Clase1Verdadera ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1Verdadera.o" "..\\src\\Clase1Verdadera.c" 
+..\src\Clase1Verdadera.c: In function 'main':
+..\src\Clase1Verdadera.c:20:11: warning: initialization of 'char' from 'char *' makes integer from pointer without a cast [-Wint-conversion]
+   20 |  char c = "a";
+      |           ^~~
+..\src\Clase1Verdadera.c:22:50: error: expected ')' before 'pi'
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                                                  ^~~
+      |                                                  )
+..\src\Clase1Verdadera.c:22:31: warning: format '%f' expects a matching 'double' argument [-Wformat=]
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                              ~^
+      |                               |
+      |                               double
+..\src\Clase1Verdadera.c:22:48: warning: format '%c' expects a matching 'int' argument [-Wformat=]
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                                               ~^
+      |                                                |
+      |                                                int
+..\src\Clase1Verdadera.c:20:7: warning: unused variable 'c' [-Wunused-variable]
+   20 |  char c = "a";
+      |       ^
+..\src\Clase1Verdadera.c:19:8: warning: unused variable 'pi' [-Wunused-variable]
+   19 |  float pi = 3.14;
+      |        ^~
+10:44:29 **** Incremental Build of configuration Debug for project Clase1Verdadera ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1Verdadera.o" "..\\src\\Clase1Verdadera.c" 
+..\src\Clase1Verdadera.c: In function 'main':
+..\src\Clase1Verdadera.c:20:11: warning: initialization of 'char' from 'char *' makes integer from pointer without a cast [-Wint-conversion]
+   20 |  char c = "a";
+      |           ^~~
+..\src\Clase1Verdadera.c:22:50: error: expected ')' before 'pi'
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                                                  ^~~
+      |                                                  )
+..\src\Clase1Verdadera.c:22:31: warning: format '%f' expects a matching 'double' argument [-Wformat=]
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                              ~^
+      |                               |
+      |                               double
+..\src\Clase1Verdadera.c:22:48: warning: format '%c' expects a matching 'int' argument [-Wformat=]
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                                               ~^
+      |                                                |
+      |                                                int
+..\src\Clase1Verdadera.c:20:7: warning: unused variable 'c' [-Wunused-variable]
+   20 |  char c = "a";
+      |       ^
+..\src\Clase1Verdadera.c:19:8: warning: unused variable 'pi' [-Wunused-variable]
+   19 |  float pi = 3.14;
+      |        ^~
+10:44:30 **** Incremental Build of configuration Debug for project Clase1Verdadera ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1Verdadera.o" "..\\src\\Clase1Verdadera.c" 
+..\src\Clase1Verdadera.c: In function 'main':
+..\src\Clase1Verdadera.c:20:11: warning: initialization of 'char' from 'char *' makes integer from pointer without a cast [-Wint-conversion]
+   20 |  char c = "a";
+      |           ^~~
+..\src\Clase1Verdadera.c:22:50: error: expected ')' before 'pi'
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                                                  ^~~
+      |                                                  )
+..\src\Clase1Verdadera.c:22:31: warning: format '%f' expects a matching 'double' argument [-Wformat=]
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                              ~^
+      |                               |
+      |                               double
+..\src\Clase1Verdadera.c:22:48: warning: format '%c' expects a matching 'int' argument [-Wformat=]
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                                               ~^
+      |                                                |
+      |                                                int
+..\src\Clase1Verdadera.c:20:7: warning: unused variable 'c' [-Wunused-variable]
+   20 |  char c = "a";
+      |       ^
+..\src\Clase1Verdadera.c:19:8: warning: unused variable 'pi' [-Wunused-variable]
+   19 |  float pi = 3.14;
+      |        ^~
+10:44:31 **** Incremental Build of configuration Debug for project Clase1Verdadera ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1Verdadera.o" "..\\src\\Clase1Verdadera.c" 
+..\src\Clase1Verdadera.c: In function 'main':
+..\src\Clase1Verdadera.c:20:11: warning: initialization of 'char' from 'char *' makes integer from pointer without a cast [-Wint-conversion]
+   20 |  char c = "a";
+      |           ^~~
+..\src\Clase1Verdadera.c:22:50: error: expected ')' before 'pi'
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                                                  ^~~
+      |                                                  )
+..\src\Clase1Verdadera.c:22:31: warning: format '%f' expects a matching 'double' argument [-Wformat=]
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                              ~^
+      |                               |
+      |                               double
+..\src\Clase1Verdadera.c:22:48: warning: format '%c' expects a matching 'int' argument [-Wformat=]
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                                               ~^
+      |                                                |
+      |                                                int
+..\src\Clase1Verdadera.c:20:7: warning: unused variable 'c' [-Wunused-variable]
+   20 |  char c = "a";
+      |       ^
+..\src\Clase1Verdadera.c:19:8: warning: unused variable 'pi' [-Wunused-variable]
+   19 |  float pi = 3.14;
+      |        ^~
+10:44:31 **** Incremental Build of configuration Debug for project Clase1Verdadera ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1Verdadera.o" "..\\src\\Clase1Verdadera.c" 
+..\src\Clase1Verdadera.c: In function 'main':
+..\src\Clase1Verdadera.c:20:11: warning: initialization of 'char' from 'char *' makes integer from pointer without a cast [-Wint-conversion]
+   20 |  char c = "a";
+      |           ^~~
+..\src\Clase1Verdadera.c:22:50: error: expected ')' before 'pi'
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                                                  ^~~
+      |                                                  )
+..\src\Clase1Verdadera.c:22:31: warning: format '%f' expects a matching 'double' argument [-Wformat=]
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                              ~^
+      |                               |
+      |                               double
+..\src\Clase1Verdadera.c:22:48: warning: format '%c' expects a matching 'int' argument [-Wformat=]
+   22 |  printf("\n El numero pi es: %f y el char es: %c" pi,c);
+      |                                               ~^
+      |                                                |
+      |                                                int
+..\src\Clase1Verdadera.c:20:7: warning: unused variable 'c' [-Wunused-variable]
+   20 |  char c = "a";
+      |       ^
+..\src\Clase1Verdadera.c:19:8: warning: unused variable 'pi' [-Wunused-variable]
+   19 |  float pi = 3.14;
+      |        ^~
+10:46:47 **** Incremental Build of configuration Debug for project Clase1Verdadera ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1Verdadera.o" "..\\src\\Clase1Verdadera.c" 
+gcc -o Clase1Verdadera.exe "src\\Clase1Verdadera.o" 
+Info: Nothing to build for Clase1Verdadera
+10:53:04 **** Incremental Build of configuration Debug for project Clase1Verdadera ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1Verdadera.o" "..\\src\\Clase1Verdadera.c" 
+..\src\Clase1Verdadera.c: In function 'main':
+..\src\Clase1Verdadera.c:27:10: warning: format '%d' expects a matching 'int *' argument [-Wformat=]
+   27 |  scanf("%d");
+      |         ~^
+      |          |
+      |          int *
+gcc -o Clase1Verdadera.exe "src\\Clase1Verdadera.o" 
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+11:02:42 **** Incremental Build of configuration Debug for project Clase1Verdadera ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1Verdadera.o" "..\\src\\Clase1Verdadera.c" 
+gcc -o Clase1Verdadera.exe "src\\Clase1Verdadera.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file Clase1Verdadera.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+11:04:17 **** Incremental Build of configuration Debug for project Clase1Verdadera ****
+Info: Internal Builder is used for build
+gcc -o Clase1Verdadera.exe "src\\Clase1Verdadera.o" 
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+11:04:40 **** Incremental Build of configuration Debug for project Clase1Verdadera ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1Verdadera.o" "..\\src\\Clase1Verdadera.c" 
+gcc -o Clase1Verdadera.exe "src\\Clase1Verdadera.o" 
+Info: Nothing to build for Clase1Verdadera
+11:39:32 **** Incremental Build of configuration Debug for project Clase1Verdadera ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1Verdadera.o" "..\\src\\Clase1Verdadera.c" 
+..\src\Clase1Verdadera.c: In function 'main':
+..\src\Clase1Verdadera.c:20:6: warning: unused variable 'resultado' [-Wunused-variable]
+   20 |  int resultado;
+      |      ^~~~~~~~~
+..\src\Clase1Verdadera.c:19:6: warning: unused variable 'numero2' [-Wunused-variable]
+   19 |  int numero2;
+      |      ^~~~~~~
+gcc -o Clase1Verdadera.exe "src\\Clase1Verdadera.o" 
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+11:42:14 **** Incremental Build of configuration Debug for project Clase1Verdadera ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1Verdadera.o" "..\\src\\Clase1Verdadera.c" 
+..\src\Clase1Verdadera.c: In function 'main':
+..\src\Clase1Verdadera.c:21:6: warning: unused variable 'resultado' [-Wunused-variable]
+   21 |  int resultado;
+      |      ^~~~~~~~~
+..\src\Clase1Verdadera.c:20:6: warning: unused variable 'numero2' [-Wunused-variable]
+   20 |  int numero2;
+      |      ^~~~~~~
+gcc -o Clase1Verdadera.exe "src\\Clase1Verdadera.o" 
+11:51:47 **** Incremental Build of configuration Debug for project Clase1Verdadera ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1Verdadera.o" "..\\src\\Clase1Verdadera.c" 
+gcc -o Clase1Verdadera.exe "src\\Clase1Verdadera.o" 
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+Info: Nothing to build for Clase1Verdadera
+11:56:04 **** Incremental Build of configuration Debug for project Clase1Verdadera ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1Verdadera.o" "..\\src\\Clase1Verdadera.c" 
+gcc -o Clase1Verdadera.exe "src\\Clase1Verdadera.o" 
+12:25:45 **** Incremental Build of configuration Debug for project Clase1Verdadera ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1Verdadera.o" "..\\src\\Clase1Verdadera.c" 
+gcc -o Clase1Verdadera.exe "src\\Clase1Verdadera.o" 
+Info: Nothing to build for Clase1Verdadera
+11:25:02 **** Rebuild of configuration Debug for project Clase1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1.o" "..\\src\\Clase1.c" 
+gcc -o Clase1.exe "src\\Clase1.o" 
+Info: Nothing to build for Clase1
+11:48:52 **** Incremental Build of configuration Debug for project Clase1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1.o" "..\\src\\Clase1.c" 
+..\src\Clase1.c: In function 'main':
+..\src\Clase1.c:25:7: warning: right-hand operand of comma expression has no effect [-Wunused-value]
+   25 |  a = 3,14;
+      |       ^
+..\src\Clase1.c:26:7: warning: right-hand operand of comma expression has no effect [-Wunused-value]
+   26 |  b = 5,5;
+      |       ^
+..\src\Clase1.c:29:45: error: expected expression before ',' token
+   29 |  printf("resultado de a menor que b es: %d"-, resultado);
+      |                                             ^
+11:49:21 **** Incremental Build of configuration Debug for project Clase1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1.o" "..\\src\\Clase1.c" 
+..\src\Clase1.c: In function 'main':
+..\src\Clase1.c:29:45: error: expected expression before ',' token
+   29 |  printf("resultado de a menor que b es: %d"-, resultado);
+      |                                             ^
+11:49:44 **** Incremental Build of configuration Debug for project Clase1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1.o" "..\\src\\Clase1.c" 
+gcc -o Clase1.exe "src\\Clase1.o" 
+Info: Nothing to build for Clase1
+12:22:20 **** Incremental Build of configuration Debug for project Clase1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Clase1.o" "..\\src\\Clase1.c" 
+gcc -o Clase1.exe "src\\Clase1.o" 
+Info: Nothing to build for Clase1

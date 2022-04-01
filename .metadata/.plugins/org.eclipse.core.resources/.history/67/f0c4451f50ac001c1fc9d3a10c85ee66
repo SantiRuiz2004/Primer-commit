@@ -1,0 +1,81 @@
+/*
+ ============================================================================
+ Name        : Clase1Verdadera.c
+ Author      : santiago
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+/*#include <stdio.h>
+#include <stdlib.h>
+
+
+
+int main(void)
+{
+
+	setbuf(stdout,NULL);
+	int numeroUno, numeroDos;
+	int resultado;
+
+	printf("Ingrese un numero: ");
+
+	scanf("%d" , &numeroUno);
+
+	printf("Ingrese otro numero: ");
+
+	scanf("%d" , &numeroDos);
+
+	resultado = numeroUno + numeroDos;
+
+	printf("El resultado de la suma es: %d", resultado );
+
+
+	return EXIT_SUCCESS;
+}*/
+#include <stdio.h>
+#include <stdlib.h>
+
+
+
+int main(void)
+{
+	setbuf(stdout,NULL);
+
+		int numeroUno,numeroDos,numeroTres,numeroCuatro,numeroCinco;
+		int resultadoSuma;
+		int resultadoPromedio;
+
+		printf("Ingrese el primer numero: ");
+
+		scanf("%d" , &numeroUno);
+
+		printf("Ingrese el segundo numero: ");
+
+		scanf("%d" , &numeroDos);
+
+		printf("Ingrese el tercer numero: ");
+
+		scanf("%d" , &numeroTres);
+
+		printf("Ingrese el cuarto numero: ");
+
+		scanf("%d" , &numeroCuatro);
+
+		printf("Ingrese el quinto numero: ");
+
+		scanf("%d" , &numeroCinco );
+
+		resultadoSuma = numeroUno + numeroDos + numeroTres + numeroCuatro + numeroCinco;
+		resultadoPromedio=resultadoSuma / 5;
+
+		printf("El resultado de la suma es: %d" , resultadoSuma);
+
+		printf("\nEl resultado del promedio es: %d" , resultadoPromedio);
+
+
+
+	return EXIT_SUCCESS;
+}

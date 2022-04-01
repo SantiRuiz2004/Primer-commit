@@ -1,0 +1,20 @@
+/*
+ ============================================================================
+ Name        : Clase1Verdadera.c
+ Author      : santiago
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+#define SALUDO "Hola mundo Eclipse!!"
+
+int main(void)
+{
+	printf(SALUDO); /* prints !!!Hello World!!! */
+	return EXIT_SUCCESS;
+}
